@@ -67,6 +67,7 @@ google-credentials.json
 
 # Vim swap files
 *.swp
+.vim/
 
 # iCloud
 *.icloud
